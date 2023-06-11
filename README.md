@@ -1,5 +1,5 @@
 # hello-world
 my first reository
-# H1 ADHILSHA
-## H2 FIRST REPOSITORY
+#  ADHILSHA
+##  FIRST REPOSITORY
 **HELLO WORLD**
