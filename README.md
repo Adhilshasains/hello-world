@@ -1,5 +1,5 @@
 # hello-world
 my first reository
 #  ADHILSHA
-##  FIRST REPOSITORY
+##  FIRST REPOSITORY OF GIT
 **HELLO WORLD**
